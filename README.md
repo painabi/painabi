@@ -1,9 +1,19 @@
->> Hey Guys <<
->> -- // LUA DEV \\ -- <<<
+# 💫 About Me:
+I'm a self-taught passionate FullStack developer from Germany
+
+🦔 Founder of Rival Studios.
+👨‍💻 Working as freelancer
+⚙️ I use daily: .js .css .html .php .lua
+💬 Ask me about Web Development
+
+🌐 Socials:
+Discord
+
+💻 Tech Stack:
+Lua, 
+
+📊 GitHub Stats:
+
+🏆 GitHub Trophies
 
 
-- 👋 Hi, I’m painabixyz
-- 👀 I’m interested on a Girlfriend
-- 🌱 I’m currently learning Py Disnake
-- 📫 How to reach me Discord!?
-- ⚡ Fun fact: I Love Developing
