@@ -2,11 +2,12 @@
 I'm a self-taught passionate FullStack developer from Germany
 
 # 🦔 Founder of Engine AntiCheat:
-👨‍💻 Working on Backend
+👨‍💻 Working on Frontend & Backend
 
 # 💫 Daily Languages:
 ⚙️ I use daily: .js .css .html .php .lua
-💬 Ask me about Web Development
+
+💬 Ask me about Web Development and Backend Development
 
 
 # 🌐 Socials:
