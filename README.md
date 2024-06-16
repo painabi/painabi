@@ -1,19 +1,21 @@
 # 💫 About Me:
 I'm a self-taught passionate FullStack developer from Germany
 
-🦔 Founder of Rival Studios.
-👨‍💻 Working as freelancer
+# 🦔 Founder of Engine AntiCheat:
+👨‍💻 Working on Backend
+
+# 💫 Daily Languages:
 ⚙️ I use daily: .js .css .html .php .lua
 💬 Ask me about Web Development
 
-🌐 Socials:
-Discord
 
-💻 Tech Stack:
-Lua, 
+# 🌐 Socials:
+Discord: @painabixyz
 
-📊 GitHub Stats:
+# 💻 Tech Stack:
+Lua, JS, NodeJS, HTML, CSS, PHP, PY
 
-🏆 GitHub Trophies
+#🏆 Latest Project:
+Comming Soon
 
 
